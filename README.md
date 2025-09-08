@@ -70,8 +70,6 @@ These features represent various aspects of trading activity, including asset ty
 * 📫 Email: [pariharishivam59@gmail.com](mailto:pariharishivam59@gmail.com)
 
 
-## 📄 License
-This project is licensed under the [MIT License](LICENSE)
 
 
 ❤️ **Thank you for visiting!** 
