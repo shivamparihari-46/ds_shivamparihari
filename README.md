@@ -73,4 +73,5 @@ These features represent various aspects of trading activity, including asset ty
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE)
 
+
 ❤️ **Thank you for visiting!** 
